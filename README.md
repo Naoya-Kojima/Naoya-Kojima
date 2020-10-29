@@ -1,5 +1,7 @@
 ### Hi I'm Naoya 👋
 
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=Naoya-Kojima&count_private=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoya-Kojima&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
