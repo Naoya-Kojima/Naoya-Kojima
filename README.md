@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Naoya 👋
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Naoya-Kojima&count_private=true)
 
