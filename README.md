@@ -1,7 +1,8 @@
 ### Hi I'm Naoya 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoya-Kojima&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 ![github stats](https://github-readme-stats.vercel.app/api?username=Naoya-Kojima&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoya-Kojima&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/Naoya-Kojima/count.svg)
 
