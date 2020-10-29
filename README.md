@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/{githubのユーザーネーム}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Naoya-Kojima/count.svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Naoya-Kojima&color=green)
 
 <!--
 **Naoya-Kojima/Naoya-Kojima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
