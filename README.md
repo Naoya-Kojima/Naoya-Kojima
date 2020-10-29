@@ -1,6 +1,6 @@
 ### Hi I'm Naoya 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Naoya-Kojima&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Naoya-Kojima&count_private=true&show_icons=true)
 
 
 
