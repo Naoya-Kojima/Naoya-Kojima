@@ -9,6 +9,11 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Naoya-Kojima/count.svg)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/naoya.kojima.39" target="blank"><img align="center" src="https://img.icons8.com/fluent/2x/facebook-new.png" alt="naoya.kojima.39" height="40" width="40" /></a>
+</p>
+
 <!--
 ![Visitor Count](https://komarev.com/ghpvc/?username=Naoya-Kojima&color=green)
 -->
