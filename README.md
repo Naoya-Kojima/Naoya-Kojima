@@ -8,6 +8,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Naoya-Kojima&color=green)
 
+[![Analytics](https://ga-beacon.appspot.com/G-C1LQ1JLRF5/Naoya-Kojima)](https://github.com/Naoya-Kojima)
 <!--
 **Naoya-Kojima/Naoya-Kojima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
